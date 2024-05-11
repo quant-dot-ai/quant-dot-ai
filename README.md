@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ![Mantra](https://github.com/quant-dot-ai/quant-dot-ai/blob/9005c3c9d3e70bed112ac61fe0518de6dc0f0b55/Data%20Beats%20Intuiton%20(3).png)
 
